@@ -1,3 +1,20 @@
+navbar{
+  align-items: center;
+  display: flex;
+  font-size: l4px;
+}
+
+header{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+#about-div > a, #navbar > * {
+  margin: 0px 6px;
+}
+
 #google-apps-icon{
   height: 26px;
 }
