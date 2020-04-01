@@ -2,17 +2,11 @@ a, a:hover {
   color: #383d42;
 }
 
-body{
-  display: flex;
-  justify-content: flex-start;
-  flex-direction: column;
-}
-
 main {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  margin: 150px auto 0px auto;
+  margin: auto;
 }
 
 navbar{
