@@ -36,14 +36,10 @@ header{
 }
 
 #form-id{
-  align-items: center;
   border: 1px solid lightgrey;
   border-radius: 35px;
   display: flex;
-  justify-content: space-between;
   margin-top: 31px;
-  padding: 13px;
-  width: 50%;
 }
 
 #google-apps-icon{
@@ -52,7 +48,6 @@ header{
 
 #search-bar{
   border: none;
-  width: 90%;
 }
 
 #search-bar:focus{
