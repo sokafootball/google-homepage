@@ -69,12 +69,8 @@ header{
 }
 
 #search-buttons > button {
-  border: none;
-  border-radius: 5px;
-  background-color: #ececec;
-  color: #636161;
   font-size: 15px;
-  margin: 0px 10px;
+  margin: 0px 5px;
   padding: 10px 15px;
 }
 
