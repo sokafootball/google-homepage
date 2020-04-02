@@ -12,9 +12,6 @@ body{
 footer{
   align-items: center;
   background-color: #ececec;
-  border-color: #dedede;
-  border-width: 1 0 0 0;
-  border-style: solid;
   display: flex;
   justify-content: space-between;
   padding: 10px 30px;
@@ -56,12 +53,7 @@ header{
   margin: 0px 10px;
 }
 
-.footer-link:hover{
-  color:#797878;
-}
-
-
-colo:ut-div > a, #navbar > * {
+#about-div > a, #navbar > * {
   margin: 0px 6px;
 }
 
