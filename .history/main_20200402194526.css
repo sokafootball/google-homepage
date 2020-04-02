@@ -11,11 +11,9 @@ body{
 
 main {
   align-items: center;
-  bottom: 200px;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  position: relative;
   width: 100%;
 }
 
@@ -41,10 +39,12 @@ header{
   align-items: center;
   border: 1px solid lightgrey;
   border-radius: 35px;
+  bottom: 200px;
   display: flex;
   justify-content: space-between;
   margin-top: 31px;
   padding: 13px;
+  position: relative;
   width: 700px;
 }
 
