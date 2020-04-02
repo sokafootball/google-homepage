@@ -106,12 +106,16 @@ colo:ut-div > a, #navbar > * {
   padding: 10px 15px;
 }
 #search-buttons > button:hover{
-  /*border-color: #cccbcb;
+  border-color: #cccbcb;
   box-shadow: 0px 1px 2px #cccbcb;
   border-style: solid;
-  border-width: 0px;*/
-  color:#383737;
+  border-width: 1px;
 }
+
+
+
+
+
 
 #search-buttons > button:hover{
   border-width: 1px;
