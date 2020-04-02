@@ -42,10 +42,6 @@ header{
   width: 100%;
 }
 
-.footer-link{
-  color:#797878;
-}
-
 #about-div > a, #navbar > * {
   margin: 0px 6px;
 }

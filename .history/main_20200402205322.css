@@ -12,6 +12,7 @@ body{
 footer{
   align-items: center;
   background-color: #ececec;
+  color:##797878;
   display: flex;
   justify-content: space-between;
   padding: 10px 30px;
@@ -40,10 +41,6 @@ header{
   justify-content: space-between;
   padding: 30px;
   width: 100%;
-}
-
-.footer-link{
-  color:#797878;
 }
 
 #about-div > a, #navbar > * {

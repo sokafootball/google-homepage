@@ -18,6 +18,10 @@ footer{
   width: 100%;
 }
 
+footer > div{
+  color:#797878;
+}
+
 main {
   align-items: center;
   bottom: 200px;
@@ -40,10 +44,6 @@ header{
   justify-content: space-between;
   padding: 30px;
   width: 100%;
-}
-
-.footer-link{
-  color:#797878;
 }
 
 #about-div > a, #navbar > * {
