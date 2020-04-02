@@ -56,12 +56,7 @@ header{
   margin: 0px 10px;
 }
 
-.footer-link:hover{
-  color:#797878;
-}
-
-
-colo:ut-div > a, #navbar > * {
+#about-div > a, #navbar > * {
   margin: 0px 6px;
 }
 
